@@ -1,5 +1,4 @@
-FROM debian:jessie-slim
-
+FROM ubuntu:16.04
 LABEL io.resin.architecture="amd64"
 
 ENV LC_ALL C.UTF-8
